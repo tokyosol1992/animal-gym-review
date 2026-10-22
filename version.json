@@ -1,0 +1,60 @@
+{
+  "sourceCommit": "366bea12f7b99e1bbb0ef56d4445d525349b78c8",
+  "sourceDirty": false,
+  "versions": [
+    {
+      "character": "diochi",
+      "version": "v06.3",
+      "sourceCommit": "6105a99",
+      "modelSha256": "c0c94cbabd646968fd4e4af7a57f3cdae513c62fdb3184d98a3fcd532a626e15"
+    },
+    {
+      "character": "diochi",
+      "version": "v06.2",
+      "sourceCommit": "bacd303",
+      "modelSha256": "d2bdce8fb25917c7778bdeb0b3cb485de66b31699b883c4a269cc096353a89ad"
+    },
+    {
+      "character": "diochi",
+      "version": "v06.1",
+      "sourceCommit": "4e1e420",
+      "modelSha256": "0f9eaf66ca62f6037369bad05721fb71a5922bba635ec0d497ebf807c0389c22"
+    },
+    {
+      "character": "diochi",
+      "version": "v06",
+      "sourceCommit": "4e1e420",
+      "modelSha256": "83901ab53997d00ce1c26d81a46ef2c37ae92ea2f6cd9e9d9890171a78b12483"
+    },
+    {
+      "character": "diochi",
+      "version": "v05.1",
+      "sourceCommit": "9f1d7c8",
+      "modelSha256": "176589eb7651af8854f749cd1fdfa7021c4ff7bb04fed8073e412b6cac9bf420"
+    },
+    {
+      "character": "diochi",
+      "version": "v05",
+      "sourceCommit": "5e6ab70",
+      "modelSha256": "d0769885d2daffe0e98eee6b5362a2eea9f321843b4fa84f15a3411208bcece1"
+    },
+    {
+      "character": "diochi",
+      "version": "v04",
+      "sourceCommit": "208713c",
+      "modelSha256": "304c0ddca774686b5a4dfee87ee4abf11be8d8650de9c84a5cd9bd2d2326b1c5"
+    },
+    {
+      "character": "diochi",
+      "version": "v03",
+      "sourceCommit": "97ece50",
+      "modelSha256": "a22a055587705dcce11efcd52079fd226c15265659edaef2c93746a34fda8657"
+    },
+    {
+      "character": "koo",
+      "version": "v01-rig-v03",
+      "sourceCommit": "e94600c",
+      "modelSha256": "40355f7db6a6441bd7b59aad364ae2782bfb1548536ff6a22737cf2f6c6a6378"
+    }
+  ]
+}
