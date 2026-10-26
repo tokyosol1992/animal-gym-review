@@ -1,5 +1,5 @@
 {
-  "sourceCommit": "1c75b0ec48a8e4242f8bd197a56eae53248b1782",
+  "sourceCommit": "5924a49a913e458c37951e9418373db78038896b",
   "sourceDirty": false,
   "versions": [
     {
@@ -79,6 +79,12 @@
       "version": "v01-rig-v03",
       "sourceCommit": "e94600c",
       "modelSha256": "40355f7db6a6441bd7b59aad364ae2782bfb1548536ff6a22737cf2f6c6a6378"
+    },
+    {
+      "character": "seo",
+      "version": "v01.1",
+      "sourceCommit": "d92a6e7",
+      "modelSha256": "effadd4c025aab2c0f7443b697a14809e91f556961b95a287ba2a00442ce420d"
     },
     {
       "character": "seo",
