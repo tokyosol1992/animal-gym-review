@@ -1,5 +1,5 @@
 {
-  "sourceCommit": "366bea12f7b99e1bbb0ef56d4445d525349b78c8",
+  "sourceCommit": "d9698d3ac4115dbd7c7d6e90aceadae18cfe7711",
   "sourceDirty": false,
   "versions": [
     {
@@ -49,6 +49,12 @@
       "version": "v03",
       "sourceCommit": "97ece50",
       "modelSha256": "a22a055587705dcce11efcd52079fd226c15265659edaef2c93746a34fda8657"
+    },
+    {
+      "character": "koo",
+      "version": "v02",
+      "sourceCommit": "068c5ac",
+      "modelSha256": "1550c6e2dcd41f7abdf71ec30c637aa8f241b676e62bdf243b3a283f2f392671"
     },
     {
       "character": "koo",
