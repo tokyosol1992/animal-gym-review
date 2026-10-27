@@ -1,5 +1,5 @@
 {
-  "sourceCommit": "a6f61fe8694c50d509eb09423ffeb26afadd7922",
+  "sourceCommit": "07802d5917ea98af32faadddd5527c52a78f1b5a",
   "sourceDirty": false,
   "versions": [
     {
@@ -97,6 +97,18 @@
       "version": "v01-source",
       "sourceCommit": "de58371",
       "modelSha256": "9213a475550851bd4b00d4de13f684770811e8e18feaa1427790927c963d7cdb"
+    },
+    {
+      "character": "doogi",
+      "version": "v02.1",
+      "sourceCommit": "fb77651",
+      "modelSha256": "8c7a7a25116823c1f7973c3cefd45531f9d8fc6d5ecbe7181ff5b67b90cf204e"
+    },
+    {
+      "character": "doogi",
+      "version": "v02",
+      "sourceCommit": "91244e2",
+      "modelSha256": "edea720bc5fbd5cd4544dfa48ac14e13f1eaf8ce95d0399b7275480163495134"
     }
   ]
 }
