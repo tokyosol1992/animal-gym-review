@@ -1,7 +1,19 @@
 {
-  "sourceCommit": "07802d5917ea98af32faadddd5527c52a78f1b5a",
+  "sourceCommit": "fd13b27a11d504c37ff9d3f4feb06c6607beda04",
   "sourceDirty": false,
   "versions": [
+    {
+      "character": "diochi",
+      "version": "v08.1",
+      "sourceCommit": "4529178",
+      "modelSha256": "69a15079f6d237b5f6f6c8612ee02adbbc09a49a8009eafbddd479cc39557e91"
+    },
+    {
+      "character": "diochi",
+      "version": "v08-source",
+      "sourceCommit": "4529178",
+      "modelSha256": "9a1a71070d2710de08ee98a510750ddb51cccabf8ba9343f9f6a819df56b3452"
+    },
     {
       "character": "diochi",
       "version": "v06.3",
