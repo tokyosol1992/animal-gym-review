@@ -1,7 +1,13 @@
 {
-  "sourceCommit": "7efd16987df5953e409e6bb1512e82e87aba5dc5",
+  "sourceCommit": "0d7bd8707e56f349b1e59f0d8d5b7e60ede605d4",
   "sourceDirty": false,
   "versions": [
+    {
+      "character": "diochi",
+      "version": "v08.2",
+      "sourceCommit": "3e8adfb",
+      "modelSha256": "4815f8a0b412e1dd51ebab11189a8bc8661867e96588890e794f3a093eb13eba"
+    },
     {
       "character": "diochi",
       "version": "v08.1",
@@ -64,6 +70,12 @@
     },
     {
       "character": "koo",
+      "version": "v02.4",
+      "sourceCommit": "3e8adfb",
+      "modelSha256": "aa31471944ab64efb665f49ad142dba5a87ff68708ede65d41be815695ba1408"
+    },
+    {
+      "character": "koo",
       "version": "v02.3",
       "sourceCommit": "8b93a1e",
       "modelSha256": "258bf1984c822871b52528ccb297be093387f62151131115f9c89312301b0cb4"
@@ -91,6 +103,12 @@
       "version": "v01-rig-v03",
       "sourceCommit": "e94600c",
       "modelSha256": "40355f7db6a6441bd7b59aad364ae2782bfb1548536ff6a22737cf2f6c6a6378"
+    },
+    {
+      "character": "seo",
+      "version": "v02",
+      "sourceCommit": "3e8adfb",
+      "modelSha256": "b4752486ed901dd353aa1e5bb9c710d5de926e9b4842dde9a31d0b01877eaa97"
     },
     {
       "character": "seo",
