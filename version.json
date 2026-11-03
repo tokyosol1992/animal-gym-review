@@ -1,7 +1,14 @@
 {
-  "sourceCommit": "0d7bd8707e56f349b1e59f0d8d5b7e60ede605d4",
+  "sourceCommit": "0540f2ac06d44e98f71c5a25f6f3e7025ab9ffeb",
   "sourceDirty": false,
+  "retainedPublicCommit": "86198469109f14ccc96e6c720e7b2eed3c38e69d",
   "versions": [
+    {
+      "character": "diochi",
+      "version": "v08-rerig-18",
+      "sourceCommit": "b0c4122",
+      "modelSha256": "fdc04b1a42c9142ccc23adbd7757df367941434da5c9f1ec92e7dadb8895d473"
+    },
     {
       "character": "diochi",
       "version": "v08.2",
