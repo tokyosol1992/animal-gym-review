@@ -1,5 +1,5 @@
 {
-  "sourceCommit": "d7482a61a0584bf8ed13810103d74812b2e81119",
+  "sourceCommit": "716f0ac840ee5fa3eee43e8f67bf4d0f26c820c2",
   "sourceDirty": false,
   "retainedPublicCommit": "86198469109f14ccc96e6c720e7b2eed3c38e69d",
   "versions": [
@@ -157,8 +157,8 @@
   "appPreview": {
     "baseUrl": "/animal-gym-review/app-preview",
     "files": 21,
-    "bytes": 63150808,
-    "indexSha256": "0e789bcc9a79be6cef006fb80e3f2c87fd07740ce72855de7c6d4128dde8bbc5",
-    "sourceCommit": "비공개 원본 PR #43 · c62a32f / 낮·밤 조명 PR #48 · 8d35c6d"
+    "bytes": 63150852,
+    "indexSha256": "5fbcc5d12fe7551487885d28dfa524a2546c0761c67ba743eae25345e35f7096",
+    "sourceCommit": "비공개 원본 PR #43 · c62a32f / 낮·밤 PR #48 · 8d35c6d / 낮 밝기 · 6c8ba1c"
   }
 }
