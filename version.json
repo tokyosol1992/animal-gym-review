@@ -1,5 +1,5 @@
 {
-  "sourceCommit": "8091c488dd6ab1ca02b4bec0a935dc586b9d4086",
+  "sourceCommit": "5a9f4a9bc64c18df2db1325f6bce734326e1ec53",
   "sourceDirty": false,
   "retainedPublicCommit": "b8f9f53bd3cc9e94fddfc5baffeb8310c254c710",
   "versions": [
@@ -157,8 +157,8 @@
   "appPreview": {
     "baseUrl": "/animal-gym-review/app-preview",
     "files": 34,
-    "bytes": 90575308,
-    "indexSha256": "d0be086b921a9cd6920d572132ffab24693a289f67bb216ce0bd26db1cdc8a49",
-    "sourceCommit": "앱 운동 시연 12종 · 원본 PR #53 · 49eb670"
+    "bytes": 90701608,
+    "indexSha256": "3dad88c8ae26db4983ad6da93ccf30e9932bce86cb7d3364c8a33c0da61715bf",
+    "sourceCommit": "앱 운동 시연 12종 · 어깨 변형 v11 · 원본 PR #56 · f556ddc"
   }
 }
