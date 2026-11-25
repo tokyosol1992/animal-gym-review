@@ -1,5 +1,5 @@
 {
-  "sourceCommit": "1e9bce7a4e2eba565a28e257764268dca8e17bea",
+  "sourceCommit": "6a1e3db128209f29481f59f5431507824a8dfd31",
   "sourceDirty": false,
   "retainedPublicCommit": "b8f9f53bd3cc9e94fddfc5baffeb8310c254c710",
   "versions": [
@@ -156,9 +156,9 @@
   ],
   "appPreview": {
     "baseUrl": "/animal-gym-review/app-preview",
-    "files": 34,
-    "bytes": 90733820,
-    "indexSha256": "71cccb3ba02e07540f992456808068025582e5e83527296fbda9879162ee5c56",
-    "sourceCommit": "앱 운동 시연 12종 · 어깨 v13 · 원본 PR #61"
+    "files": 36,
+    "bytes": 116432031,
+    "indexSha256": "e426dfb7e59c0e17644323fec57f6dd2af02b98266e7904de39df88665ef050a",
+    "sourceCommit": "앱 운동 14종 · 플랜·캘린더·경험치·방 꾸미기 · 어깨 v13 · 기구 파일럿 2종"
   }
 }
